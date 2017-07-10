@@ -1,12 +1,19 @@
-\\mac\home\documents\visual studio 2015\Projects\HelloWorld\HelloWorld\bin\Debug\HelloWorld.exe.config
-\\mac\home\documents\visual studio 2015\Projects\HelloWorld\HelloWorld\bin\Debug\HelloWorld.exe
-\\mac\home\documents\visual studio 2015\Projects\HelloWorld\HelloWorld\bin\Debug\HelloWorld.pdb
-\\mac\home\documents\visual studio 2015\Projects\HelloWorld\HelloWorld\obj\Debug\HelloWorld.csprojResolveAssemblyReference.cache
-\\mac\home\documents\visual studio 2015\Projects\HelloWorld\HelloWorld\obj\Debug\HelloWorld.exe
-\\mac\home\documents\visual studio 2015\Projects\HelloWorld\HelloWorld\obj\Debug\HelloWorld.pdb
-\\Mac\Home\GIT\C#\HelloWorld\HelloWorld\bin\Debug\HelloWorld.exe.config
-\\Mac\Home\GIT\C#\HelloWorld\HelloWorld\obj\Debug\HelloWorld.exe
-\\Mac\Home\GIT\C#\HelloWorld\HelloWorld\obj\Debug\HelloWorld.pdb
-\\Mac\Home\GIT\C#\HelloWorld\HelloWorld\bin\Debug\HelloWorld.exe
-\\Mac\Home\GIT\C#\HelloWorld\HelloWorld\bin\Debug\HelloWorld.pdb
-\\Mac\Home\GIT\C#\HelloWorld\HelloWorld\obj\Debug\HelloWorld.csprojResolveAssemblyReference.cache
+//mac/home/documents/visual studio 2015/Projects/HelloWorld/HelloWorld/bin/Debug/HelloWorld.exe.config
+//mac/home/documents/visual studio 2015/Projects/HelloWorld/HelloWorld/bin/Debug/HelloWorld.exe
+//mac/home/documents/visual studio 2015/Projects/HelloWorld/HelloWorld/bin/Debug/HelloWorld.pdb
+//mac/home/documents/visual studio 2015/Projects/HelloWorld/HelloWorld/obj/Debug/HelloWorld.csprojResolveAssemblyReference.cache
+//mac/home/documents/visual studio 2015/Projects/HelloWorld/HelloWorld/obj/Debug/HelloWorld.exe
+//mac/home/documents/visual studio 2015/Projects/HelloWorld/HelloWorld/obj/Debug/HelloWorld.pdb
+//Mac/Home/GIT/C#/HelloWorld/HelloWorld/bin/Debug/HelloWorld.exe.config
+//Mac/Home/GIT/C#/HelloWorld/HelloWorld/obj/Debug/HelloWorld.exe
+//Mac/Home/GIT/C#/HelloWorld/HelloWorld/obj/Debug/HelloWorld.pdb
+//Mac/Home/GIT/C#/HelloWorld/HelloWorld/bin/Debug/HelloWorld.exe
+//Mac/Home/GIT/C#/HelloWorld/HelloWorld/bin/Debug/HelloWorld.pdb
+//Mac/Home/GIT/C#/HelloWorld/HelloWorld/obj/Debug/HelloWorld.csprojResolveAssemblyReference.cache
+/Users/Wiktor/GIT/bushido/HelloWorld/HelloWorld/bin/Debug/HelloWorld.exe.config
+/Users/Wiktor/GIT/bushido/HelloWorld/HelloWorld/bin/Debug/HelloWorld.exe
+/Users/Wiktor/GIT/bushido/HelloWorld/HelloWorld/bin/Debug/HelloWorld.pdb
+/Users/Wiktor/GIT/bushido/HelloWorld/HelloWorld/obj/Debug/HelloWorld.csprojResolveAssemblyReference.cache
+/Users/Wiktor/GIT/bushido/HelloWorld/HelloWorld/obj/Debug/HelloWorld.csproj.CoreCompileInputs.cache
+/Users/Wiktor/GIT/bushido/HelloWorld/HelloWorld/obj/Debug/HelloWorld.exe
+/Users/Wiktor/GIT/bushido/HelloWorld/HelloWorld/obj/Debug/HelloWorld.pdb
